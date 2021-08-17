@@ -1,7 +1,0 @@
-INDEX VERSION 1.4+C:\hongbapProject\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1430236583.index
-2097941214.index
-186001378.index
-4186522280.index
-2028710633.index
-2419608241.index
